@@ -1,2 +1,2 @@
 # certificates
-These are my certificates
+These are some of my certificates
